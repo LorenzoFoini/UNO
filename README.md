@@ -5,7 +5,7 @@ This project allows the famous game to be played on a single PC using a Textual 
 
 ## Features
 
-Number of players: between 2 and 5.
+Number of players: between 2 and 5.<br>
 Compared to the official game, the following changes have been made:
 + The card to block the next player's turn was not implemented.
 + The card to change the direction of the game was not implemented.
