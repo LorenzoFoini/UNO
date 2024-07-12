@@ -1,5 +1,7 @@
 # UNO CARD GAME
 
+![alt text](Uno.jpeg)
+
 Implementation of the board game [**UNO**](https://shopping.mattel.com/it-it/collections/uno).<br>
 This project allows the famous game to be played on a single PC using a Textual User Interface (TUI).<br>
 
